@@ -1,0 +1,9 @@
+~ to jest tylda cd ~ do folderu domowego
+touch tworzy plik
+mkdir edytowanie go 
+mkdir test 
+X
+rm nazwa pliku.txt usuwa
+rm nazwa folderu -r_nazwa
+./nazwa wyświetla
+chmod +x nadanie praw do edycji
